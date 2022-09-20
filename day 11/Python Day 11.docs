@@ -1,0 +1,17 @@
+Task 1
+Given a string s consisting of words and spaces, return the length of the last word in the string.
+A word is a maximal substring consisting of non-space characters only
+input  hello world 
+output 5
+
+Task 2
+Write a function that will receive a natural number N and return True if it is prime, otherwise it will return False
+
+input 5 
+output True
+
+input 4
+output False
+
+input 1
+output True
